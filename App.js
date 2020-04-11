@@ -24,6 +24,8 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+import codePush from "react-native-code-push";
+
 const App: () => React$Node = () => {
   return (
     <>
@@ -111,4 +113,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default App;
+export default codePush(App);

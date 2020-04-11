@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CodePushDeploymentKey</key>
-	<string>D1PeUbIz1hFwmce3K-atD7nB4jFEz2Ldgt_MP</string>
 	<key>AppSecret</key>
 	<string>9c40094e-230e-41ce-97dc-3060050f0be8</string>
 </dict>

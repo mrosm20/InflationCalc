@@ -41,6 +41,8 @@
 	<string></string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
+	<key>CodePushDeploymentKey</key>
+	<string>D1PeUbIz1hFwmce3K-atD7nB4jFEz2Ldgt_MP</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
